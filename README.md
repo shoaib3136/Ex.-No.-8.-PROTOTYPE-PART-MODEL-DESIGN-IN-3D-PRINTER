@@ -45,11 +45,18 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-### preview of the model after slicing process.
+
+### preview of the model after slicing process:
+
 ![image](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/3013ba8c-60ea-4910-8a37-5af54e5ddf90)
 
-## Name: C.Prabha
-## Register Number: 212222110032
+### Final Output:
+
+![WhatsApp Image 2023-06-12 at 07 49 53](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/a1a79645-cd11-4443-abd1-8db09b986a12)
+
+
+## Name: Shaik Shoaib Nawaz
+## Register Number:  212222240094
 ## RESULT:
 ### Thus a prototype of the given part model is developed using 3D Printer.
 
