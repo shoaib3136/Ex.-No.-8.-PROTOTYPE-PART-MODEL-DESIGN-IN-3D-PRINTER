@@ -54,7 +54,8 @@
 
 ![WhatsApp Image 2023-06-12 at 07 49 53](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/a1a79645-cd11-4443-abd1-8db09b986a12)
 
-
+## Video Link: 
+https://drive.google.com/file/d/1mFvpbf0rDiY7DLo8lDE1sZaBQ3Glf64c/view?usp=drivesdk
 ## Name: Shaik Shoaib Nawaz
 ## Register Number:  212222240094
 ## RESULT:
